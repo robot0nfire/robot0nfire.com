@@ -1,0 +1,29 @@
+{
+    "name": "r0f_custom",
+    "description": "The custom ghost theme from robot0nfire",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Nico Kratky",
+        "email": "nico@nicokratky.me",
+        "url": "https://nicokratky.me"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ]
+}
